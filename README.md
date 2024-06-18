@@ -19,8 +19,8 @@ Estudante de Ciências da Computação.
 
 ### GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cablade&show_icons=true&theme=react)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cablade&layout=compact&theme=react)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cablade&show_icons=true&theme=github_dark_dimmed)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cablade&layout=compact&theme=github_dark_dimmed)
 
  ### Conecte-se comigo
 <div> 
