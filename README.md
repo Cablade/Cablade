@@ -1,31 +1,40 @@
-# Caio Milão
-
-Estudante de Ciências da Computação.
-
-### Habilidades
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
-  <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
-  <img align="center" alt="csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg">
-  <img align="center" alt="django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg">
-  <img align="center" alt="css3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg">
-  <img align="center" alt="html5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg">
-          
+<!-- BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=200&section=header&text=Olá+Visitante%20&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=1f6feb&size=22&center=true&vCenter=true&width=600&lines=Meu+Nome+é+Caio;Sou+Desenvolvedor+Backend;Apaixonado+por+Tecnologia;Estou+Sempre+Aprendendo+Algo+Novo" />
+</p>
 
 
-</div>
+## Tecnologias:
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,python,java,c,cs,django,html,css" />
+</p>
 
-### GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cablade&show_icons=true&theme=dark_dimmed)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cablade&layout=compact&theme=dark_dimmed)
 
- ### Conecte-se comigo
-<div> 
-  <a href = "mailto:caiohmilao@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/caiomilao" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://www.dio.me/users/caiohmilao"><img src="https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge"></a>
-  <a href = "https://github.com/Cablade"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-</div>
+## GitHub Stats:
+<p align="center">
+  <img height="170" src="https://github-readme-stats-one-bice.vercel.app/api?username=Cablade&show_icons=true&theme=github_dark&count_private=true&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Cablade&layout=compact&theme=github_dark&count_private=true&hide_border=true"/>
+</p>
+
+
+
+## Conecte-se comigo:
+<p align="center">
+  <a href="mailto:caiohmilao@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/caiomilao">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Cablade">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+<!-- FOOTER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0d1117&height=120&section=footer"/>
+</p>
